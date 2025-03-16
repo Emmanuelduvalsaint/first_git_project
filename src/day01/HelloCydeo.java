@@ -5,5 +5,8 @@ public class HelloCydeo {
         System.out.println("Hello Cydeo");
 
         System.out.println("Hello Cydeo school");
+         System.out.println("Hello Programmers"); 
+         System.out.println("Hello world");
+        
     }
 }
