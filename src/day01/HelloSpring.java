@@ -6,5 +6,6 @@ public class HelloSpring {
         String spring = "Spring is beautiful";
 
         System.out.println(spring);
+        System.out.println("Spring");
     }
 }
